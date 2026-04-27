@@ -34,3 +34,11 @@ a {
   color: white;
   text-decoration: none;
 }
+.hero-image {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  margin: 24px auto;
+  border-radius: 16px;
+}
